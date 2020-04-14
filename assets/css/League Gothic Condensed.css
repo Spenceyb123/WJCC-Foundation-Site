@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'League Gothic Condensed';
+	src: url(../../assets/fonts/leaguegothic-condensed-regular-webfont.eot) format('embedded-opentype'),
+	url(../../assets/fonts/leaguegothic-condensed-regular-webfont.eot) format('embedded-opentype'),
+	url(../../assets/fonts/leaguegothic-condensed-regular-webfont.woff) format('woff'),
+	url(../../assets/fonts/leaguegothic-condensed-regular-webfont.ttf) format('truetype'),
+	url(../../assets/fonts/leaguegothic-condensed-regular-webfont.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'League Gothic Condensed';
+	src: url(../../assets/fonts/leaguegothic-condensed-italic-webfont.eot) format('embedded-opentype'),
+	url(../../assets/fonts/leaguegothic-condensed-italic-webfont.eot) format('embedded-opentype'),
+	url(../../assets/fonts/leaguegothic-condensed-italic-webfont.woff) format('woff'),
+	url(../../assets/fonts/leaguegothic-condensed-italic-webfont.ttf) format('truetype'),
+	url(../../assets/fonts/leaguegothic-condensed-italic-webfont.svg) format('svg');
+	font-weight: normal;
+	font-style: italic;
+}

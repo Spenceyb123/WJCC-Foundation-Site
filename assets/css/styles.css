@@ -1,0 +1,26 @@
+* {
+  font-family: "League Gothic";
+}
+
+.text-center {
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: rgba(0,0,0,.7);
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: rgba(0,0,0,.5);
+}
+
+.nav.navbar-nav.ml-auto {
+}
+
+#navcol-1 {
+  text-align: right;
+}
+
+b, strong {
+  font-weight: normal;
+}
+
